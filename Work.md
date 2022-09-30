@@ -3,10 +3,11 @@
 ## Exterior Work
 
 - [ ] Front Porch
-  - [ ] Pressure Wash
-  - [ ] Repair support posts
-  - [ ] Replace handrails and use 4 X 4's
-  - [ ] Replace Porch light
+  - [x] Pressure Wash
+  - [x] Repair support posts
+  - [x] Replace handrails and use 4 X 4's
+  - [x] Replace Porch light
+  - [ ] Paint stairs and deck
 
 - [ ] Back Porch
   - [ ] Check if permits are required?
