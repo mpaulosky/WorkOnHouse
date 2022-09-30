@@ -16,15 +16,15 @@
   - [ ] Oil handrail and decking
 
 - [ ] Back Patio
-  - [ ] Check if permits are required?
-  - [ ] Prep for concrete forms
+  - [x] Check if permits are required?
+  - [x] Prep for concrete forms
   - [ ] Build forms accross back of house
   - [ ] Build forms around east end and under gate
   - [ ] Order concrete and pump truck
 
 - [ ] Front Driveway Extension
-  - [ ] Check if permits are required?
-  - [ ] Prepare for forms
+  - [x] Check if permits are required?
+  - [x] Prepare for forms
   - [ ] Build forms
   - [ ] Order concrete
 
